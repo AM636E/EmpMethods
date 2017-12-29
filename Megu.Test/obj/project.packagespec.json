@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/zaz/rider_projects/Megu/Megu.Test/Megu.Test.csproj",
+    "projectName": "Megu.Test",
+    "projectPath": "/home/zaz/rider_projects/Megu/Megu.Test/Megu.Test.csproj",
+    "outputPath": "/home/zaz/rider_projects/Megu/Megu.Test/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {
+          "/home/zaz/rider_projects/Megu/Megu.Labs/Megu.Labs.csproj": {
+            "projectPath": "/home/zaz/rider_projects/Megu/Megu.Labs/Megu.Labs.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "15.0.0"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.2.0"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "2.2.0"
+        }
+      }
+    }
+  }
+}

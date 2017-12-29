@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/zaz/rider_projects/Megu/Megu.Labs/Megu.Labs.csproj",
+    "projectName": "Megu.Labs",
+    "projectPath": "/home/zaz/rider_projects/Megu/Megu.Labs/Megu.Labs.csproj",
+    "outputPath": "/home/zaz/rider_projects/Megu/Megu.Labs/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        }
+      }
+    }
+  }
+}

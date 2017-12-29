@@ -1,0 +1,8 @@
+/home/zaz/rider_projects/Megu/Megu.Labs/bin/Debug/netcoreapp1.1/Megu.Labs.deps.json
+/home/zaz/rider_projects/Megu/Megu.Labs/bin/Debug/netcoreapp1.1/Megu.Labs.runtimeconfig.json
+/home/zaz/rider_projects/Megu/Megu.Labs/bin/Debug/netcoreapp1.1/Megu.Labs.runtimeconfig.dev.json
+/home/zaz/rider_projects/Megu/Megu.Labs/bin/Debug/netcoreapp1.1/Megu.Labs.dll
+/home/zaz/rider_projects/Megu/Megu.Labs/bin/Debug/netcoreapp1.1/Megu.Labs.pdb
+/home/zaz/rider_projects/Megu/Megu.Labs/obj/Debug/netcoreapp1.1/Megu.Labs.AssemblyInfo.cs
+/home/zaz/rider_projects/Megu/Megu.Labs/obj/Debug/netcoreapp1.1/Megu.Labs.dll
+/home/zaz/rider_projects/Megu/Megu.Labs/obj/Debug/netcoreapp1.1/Megu.Labs.pdb

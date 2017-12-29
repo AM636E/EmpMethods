@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megu.Labs", "Megu.Labs/Megu.Labs.csproj", "{06B38568-200F-44BD-A965-F40FBD184B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megu.Test", "Megu.Test\Megu.Test.csproj", "{D01259FD-46D8-49BC-BD55-3EC0354AE54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B38568-200F-44BD-A965-F40FBD184B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B38568-200F-44BD-A965-F40FBD184B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B38568-200F-44BD-A965-F40FBD184B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B38568-200F-44BD-A965-F40FBD184B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01259FD-46D8-49BC-BD55-3EC0354AE54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01259FD-46D8-49BC-BD55-3EC0354AE54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01259FD-46D8-49BC-BD55-3EC0354AE54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01259FD-46D8-49BC-BD55-3EC0354AE54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
